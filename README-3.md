@@ -5,11 +5,10 @@
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 <ul>
 <li> <img src="https://seeklogo.com/images/I/ivi-logo-DBB3F958F7-seeklogo.com.png" height="15" ></h2> Сейчас я работаю QA инженером в компании Testbirds <a href="https://www.ivi.ru/">Ivi</a> (Краудтестинговая компания)</li>
-<li> 😌 Завершил курс <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing(https://drive.google.com/file/d/1X_qct9ZZ9OFw0f68RcEdED_Jc0qPHBll/view?usp=sharing">функционального тестирования ПО</a></li>
-<li> ☕ Сейчас я учусь автоматизировать тесты с использованием Java</li>
+<li> 😌 Завершил курс <a href="https://drive.google.com/file/d/1X_qct9ZZ9OFw0f68RcEdED_Jc0qPHBll/view?usp=sharing"
 <li> 🐈‍⬛ Большинство моих учебных примеров доступны на <a href="https://github.com/nalbilee">GitHub</a></li>
 <li> 📖 В свободное время учу Kotlin</li>
-<li>📙 Ознакомьтесь с моим <a href="https://stepik.org/cert/2613469](https://drive.google.com/file/d/1X_qct9ZZ9OFw0f68RcEdED_Jc0qPHBll/view?usp=sharing">сертификатом</a></li>
+<li>📙 Ознакомьтесь с моим <a href="https://drive.google.com/file/d/1X_qct9ZZ9OFw0f68RcEdED_Jc0qPHBll/view?usp=sharing>сертификатом</a></li>
 <li>🧣 Случайный факт обо мне: я люблю вязание, Формулу-1 и Тейлор Свифт</li>
 </ul>
 <h2>Инструменты, которые я использую</h2>
